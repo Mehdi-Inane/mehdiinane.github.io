@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Ahmed Mehdi Inane
+email: mehdi-inane.ahmed@mila.quebec
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  PhD candidate, supervised by Professor Ioannis Mitliagkas. Working on optimization for Machine Learning, with a concentration on stochastic methods for machine>-
+ unlearning
 domain: mehdiinane.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://mehdiinane.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /code/      # place folder name if the site is served in a subfolder
